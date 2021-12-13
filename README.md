@@ -1,5 +1,5 @@
 # AI-Object-detection-project
-## Saudi Arabia. KFUPM . AI object detection
+## Saudi Arabia. KFUPM.
 
 ### This project is done by KFUPM undergraduate students to train faster-rcnn pre-trained model on more images to improve the model overall confidence. 
 
