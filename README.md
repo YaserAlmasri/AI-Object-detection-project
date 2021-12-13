@@ -5,7 +5,7 @@
 
 Specials thanks for Ammar Jazairly, Hamza Anwar, Abdurrahman Balah. 
 
-References:
+## References:
 1- https://pytorch.org/
 2- https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html
 3- https://learn-pytorch.oneoffcoder.com/object-detection.html
